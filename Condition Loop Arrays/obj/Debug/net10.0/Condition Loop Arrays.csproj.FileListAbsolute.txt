@@ -1,0 +1,14 @@
+/Users/kim/GitRepos/UTV-26/Condition Loop Arrays/bin/Debug/net10.0/Condition Loop Arrays
+/Users/kim/GitRepos/UTV-26/Condition Loop Arrays/bin/Debug/net10.0/Condition Loop Arrays.deps.json
+/Users/kim/GitRepos/UTV-26/Condition Loop Arrays/bin/Debug/net10.0/Condition Loop Arrays.runtimeconfig.json
+/Users/kim/GitRepos/UTV-26/Condition Loop Arrays/bin/Debug/net10.0/Condition Loop Arrays.dll
+/Users/kim/GitRepos/UTV-26/Condition Loop Arrays/bin/Debug/net10.0/Condition Loop Arrays.pdb
+/Users/kim/GitRepos/UTV-26/Condition Loop Arrays/obj/Debug/net10.0/Condition Loop Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kim/GitRepos/UTV-26/Condition Loop Arrays/obj/Debug/net10.0/Condition Loop Arrays.AssemblyInfoInputs.cache
+/Users/kim/GitRepos/UTV-26/Condition Loop Arrays/obj/Debug/net10.0/Condition Loop Arrays.AssemblyInfo.cs
+/Users/kim/GitRepos/UTV-26/Condition Loop Arrays/obj/Debug/net10.0/Condition Loop Arrays.csproj.CoreCompileInputs.cache
+/Users/kim/GitRepos/UTV-26/Condition Loop Arrays/obj/Debug/net10.0/Condition Loop Arrays.dll
+/Users/kim/GitRepos/UTV-26/Condition Loop Arrays/obj/Debug/net10.0/refint/Condition Loop Arrays.dll
+/Users/kim/GitRepos/UTV-26/Condition Loop Arrays/obj/Debug/net10.0/Condition Loop Arrays.pdb
+/Users/kim/GitRepos/UTV-26/Condition Loop Arrays/obj/Debug/net10.0/Condition Loop Arrays.genruntimeconfig.cache
+/Users/kim/GitRepos/UTV-26/Condition Loop Arrays/obj/Debug/net10.0/ref/Condition Loop Arrays.dll

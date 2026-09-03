@@ -1,0 +1,14 @@
+/Users/kim/GitRepos/UTV-26/ProductListManager/bin/Debug/net10.0/ProductListManager
+/Users/kim/GitRepos/UTV-26/ProductListManager/bin/Debug/net10.0/ProductListManager.deps.json
+/Users/kim/GitRepos/UTV-26/ProductListManager/bin/Debug/net10.0/ProductListManager.runtimeconfig.json
+/Users/kim/GitRepos/UTV-26/ProductListManager/bin/Debug/net10.0/ProductListManager.dll
+/Users/kim/GitRepos/UTV-26/ProductListManager/bin/Debug/net10.0/ProductListManager.pdb
+/Users/kim/GitRepos/UTV-26/ProductListManager/obj/Debug/net10.0/ProductListManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kim/GitRepos/UTV-26/ProductListManager/obj/Debug/net10.0/ProductListManager.AssemblyInfoInputs.cache
+/Users/kim/GitRepos/UTV-26/ProductListManager/obj/Debug/net10.0/ProductListManager.AssemblyInfo.cs
+/Users/kim/GitRepos/UTV-26/ProductListManager/obj/Debug/net10.0/ProductListManager.csproj.CoreCompileInputs.cache
+/Users/kim/GitRepos/UTV-26/ProductListManager/obj/Debug/net10.0/ProductListManager.dll
+/Users/kim/GitRepos/UTV-26/ProductListManager/obj/Debug/net10.0/refint/ProductListManager.dll
+/Users/kim/GitRepos/UTV-26/ProductListManager/obj/Debug/net10.0/ProductListManager.pdb
+/Users/kim/GitRepos/UTV-26/ProductListManager/obj/Debug/net10.0/ProductListManager.genruntimeconfig.cache
+/Users/kim/GitRepos/UTV-26/ProductListManager/obj/Debug/net10.0/ref/ProductListManager.dll

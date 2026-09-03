@@ -1,0 +1,14 @@
+/Users/kim/GitRepos/UTV-26/IntArray/bin/Debug/net10.0/IntArray
+/Users/kim/GitRepos/UTV-26/IntArray/bin/Debug/net10.0/IntArray.deps.json
+/Users/kim/GitRepos/UTV-26/IntArray/bin/Debug/net10.0/IntArray.runtimeconfig.json
+/Users/kim/GitRepos/UTV-26/IntArray/bin/Debug/net10.0/IntArray.dll
+/Users/kim/GitRepos/UTV-26/IntArray/bin/Debug/net10.0/IntArray.pdb
+/Users/kim/GitRepos/UTV-26/IntArray/obj/Debug/net10.0/IntArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kim/GitRepos/UTV-26/IntArray/obj/Debug/net10.0/IntArray.AssemblyInfoInputs.cache
+/Users/kim/GitRepos/UTV-26/IntArray/obj/Debug/net10.0/IntArray.AssemblyInfo.cs
+/Users/kim/GitRepos/UTV-26/IntArray/obj/Debug/net10.0/IntArray.csproj.CoreCompileInputs.cache
+/Users/kim/GitRepos/UTV-26/IntArray/obj/Debug/net10.0/IntArray.dll
+/Users/kim/GitRepos/UTV-26/IntArray/obj/Debug/net10.0/refint/IntArray.dll
+/Users/kim/GitRepos/UTV-26/IntArray/obj/Debug/net10.0/IntArray.pdb
+/Users/kim/GitRepos/UTV-26/IntArray/obj/Debug/net10.0/IntArray.genruntimeconfig.cache
+/Users/kim/GitRepos/UTV-26/IntArray/obj/Debug/net10.0/ref/IntArray.dll

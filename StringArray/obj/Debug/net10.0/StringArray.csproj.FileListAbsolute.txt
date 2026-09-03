@@ -1,0 +1,14 @@
+/Users/kim/GitRepos/UTV-26/StringArray/bin/Debug/net10.0/StringArray
+/Users/kim/GitRepos/UTV-26/StringArray/bin/Debug/net10.0/StringArray.deps.json
+/Users/kim/GitRepos/UTV-26/StringArray/bin/Debug/net10.0/StringArray.runtimeconfig.json
+/Users/kim/GitRepos/UTV-26/StringArray/bin/Debug/net10.0/StringArray.dll
+/Users/kim/GitRepos/UTV-26/StringArray/bin/Debug/net10.0/StringArray.pdb
+/Users/kim/GitRepos/UTV-26/StringArray/obj/Debug/net10.0/StringArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kim/GitRepos/UTV-26/StringArray/obj/Debug/net10.0/StringArray.AssemblyInfoInputs.cache
+/Users/kim/GitRepos/UTV-26/StringArray/obj/Debug/net10.0/StringArray.AssemblyInfo.cs
+/Users/kim/GitRepos/UTV-26/StringArray/obj/Debug/net10.0/StringArray.csproj.CoreCompileInputs.cache
+/Users/kim/GitRepos/UTV-26/StringArray/obj/Debug/net10.0/StringArray.dll
+/Users/kim/GitRepos/UTV-26/StringArray/obj/Debug/net10.0/refint/StringArray.dll
+/Users/kim/GitRepos/UTV-26/StringArray/obj/Debug/net10.0/StringArray.pdb
+/Users/kim/GitRepos/UTV-26/StringArray/obj/Debug/net10.0/StringArray.genruntimeconfig.cache
+/Users/kim/GitRepos/UTV-26/StringArray/obj/Debug/net10.0/ref/StringArray.dll
