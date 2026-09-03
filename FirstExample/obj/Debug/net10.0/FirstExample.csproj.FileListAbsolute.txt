@@ -1,0 +1,14 @@
+/Users/kim/GitRepos/UTV-26/FirstExample/bin/Debug/net10.0/FirstExample
+/Users/kim/GitRepos/UTV-26/FirstExample/bin/Debug/net10.0/FirstExample.deps.json
+/Users/kim/GitRepos/UTV-26/FirstExample/bin/Debug/net10.0/FirstExample.runtimeconfig.json
+/Users/kim/GitRepos/UTV-26/FirstExample/bin/Debug/net10.0/FirstExample.dll
+/Users/kim/GitRepos/UTV-26/FirstExample/bin/Debug/net10.0/FirstExample.pdb
+/Users/kim/GitRepos/UTV-26/FirstExample/obj/Debug/net10.0/FirstExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kim/GitRepos/UTV-26/FirstExample/obj/Debug/net10.0/FirstExample.AssemblyInfoInputs.cache
+/Users/kim/GitRepos/UTV-26/FirstExample/obj/Debug/net10.0/FirstExample.AssemblyInfo.cs
+/Users/kim/GitRepos/UTV-26/FirstExample/obj/Debug/net10.0/FirstExample.csproj.CoreCompileInputs.cache
+/Users/kim/GitRepos/UTV-26/FirstExample/obj/Debug/net10.0/FirstExample.dll
+/Users/kim/GitRepos/UTV-26/FirstExample/obj/Debug/net10.0/refint/FirstExample.dll
+/Users/kim/GitRepos/UTV-26/FirstExample/obj/Debug/net10.0/FirstExample.pdb
+/Users/kim/GitRepos/UTV-26/FirstExample/obj/Debug/net10.0/FirstExample.genruntimeconfig.cache
+/Users/kim/GitRepos/UTV-26/FirstExample/obj/Debug/net10.0/ref/FirstExample.dll
