@@ -12,3 +12,4 @@
 /Users/kim/GitRepos/UTV-26/ProductListManager/obj/Debug/net10.0/ProductListManager.pdb
 /Users/kim/GitRepos/UTV-26/ProductListManager/obj/Debug/net10.0/ProductListManager.genruntimeconfig.cache
 /Users/kim/GitRepos/UTV-26/ProductListManager/obj/Debug/net10.0/ref/ProductListManager.dll
+/Users/kim/GitRepos/UTV-26/ProductListManager/obj/Debug/net10.0/ProductListManager.sourcelink.json
