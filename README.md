@@ -1,19 +1,23 @@
 # My MiniProjects in the C# training
 
-## Product List Manager
+### Notes
+This project was created during the first week of C# training.
+Some files in this repository are instructor reference examples used to explain concepts. My own projects are listed below.
+
+## 1. Product List Manager
 
 A simple C# console application created as a beginner-level mini project.
 
 ### Description
-This project allows the user to enter product names, validate them, and display a sorted list of valid entries. The program continues until the user types "exit".
+This project allows the user to manage a list of product names through a simple console menu. The program continues until the user chooses Exit.
 
 ### Features
 - Input product names from the console
-- Stop the loop when the user types "exit"
-- Validate product format
-- Sort valid products alphabetically
-- Display the final list
-- Learning goals
+- Add and validate product names
+- View products in alphabetical order
+- Search for a product
+- Delete a product
+- Display basic statistics
 
 ### This project was built to practice:
 - C# basics
@@ -22,10 +26,15 @@ This project allows the user to enter product names, validate them, and display 
 - arrays and lists
 - validation
 - sorting data in C#
+- methods and switch statements
 
 ### Technologies
 - C# (.NET 10)
 - Console Application
 - Visual Studio Code (Mac)
+
+### Reference material
+
+Some other files in this repository are instructor examples from the training. They are kept as reference material and are not part of this project implementation. `ProductListManager/Program.cs` is my own beginner-level console project.
 
 
