@@ -12,3 +12,4 @@
 /Users/kim/GitRepos/UTV-26/FirstExample/obj/Debug/net10.0/FirstExample.pdb
 /Users/kim/GitRepos/UTV-26/FirstExample/obj/Debug/net10.0/FirstExample.genruntimeconfig.cache
 /Users/kim/GitRepos/UTV-26/FirstExample/obj/Debug/net10.0/ref/FirstExample.dll
+/Users/kim/GitRepos/UTV-26/FirstExample/obj/Debug/net10.0/FirstExample.sourcelink.json
