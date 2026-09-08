@@ -1,5 +1,10 @@
 .DS_Store
 .github/*
+.vscode/*
+Lab/*
 Skills/*
+MyTrainingExercise 1/*
+FirstExample/*
+LectureSandbox/*
 **/bin/
 **/obj/
