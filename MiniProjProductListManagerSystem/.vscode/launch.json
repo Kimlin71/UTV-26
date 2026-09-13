@@ -2,10 +2,10 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "ProductListManager",
+      "name": "MiniProjProductListManagerSystem",
       "type": "coreclr",
       "request": "launch",
-      "program": "${workspaceFolder}/bin/Debug/net10.0/ProductListManager.dll",
+      "program": "${workspaceFolder}/bin/Debug/net10.0/MiniProjProductListManagerSystem.dll",
       "cwd": "${workspaceFolder}",
       "console": "integratedTerminal",
       "stopAtEntry": false,
