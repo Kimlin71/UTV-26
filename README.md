@@ -28,7 +28,7 @@ This project allows the user to manage a list of product names through a simple 
 - sorting data in C#
 - methods and switch statements
 
-## 2. Product List Manager
+## 2. Product List Manager System
 
 A simple C# console application created as a beginner-level mini project.
 
