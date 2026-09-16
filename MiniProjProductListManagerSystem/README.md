@@ -4,7 +4,7 @@
 
 ### Notes
 
-This project was created during the first week of C# training.
+This project was created during the second week of C# training.
 
 Some files in this repository may be instructor reference examples used to explain concepts. My own project is described below.
 
